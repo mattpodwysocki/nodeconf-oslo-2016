@@ -8,6 +8,9 @@ The UNIX philosophy of small, single purpose modules has taken hold in the Node 
 
 - [Slides](nodeconf-oslo-2016.pdf)
 - [@mattpodwysocki](https://twitter.com/mattpodwysocki)
+- [NodeConf 2011 - Marak Squires raps all NPM modules](https://www.youtube.com/watch?v=Ryx9efq3V_I
+)
+- [Small Modules, It's Not That Simple](https://medium.com/@Rich_Harris/small-modules-it-s-not-quite-that-simple-3ca532d65de4#.dzwjd9rqq)
 
 # LICENSE
 
